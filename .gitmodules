@@ -1,0 +1,6 @@
+[submodule "third_party/libevent"]
+	path = third_party/libevent
+	url = https://github.com/libevent/libevent.git
+[submodule "third_party/CppLinuxSerial"]
+	path = third_party/CppLinuxSerial
+	url = https://github.com/gbmhunter/CppLinuxSerial.git
